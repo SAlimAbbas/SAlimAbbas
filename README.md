@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio]()
+- 👨‍💻 All of my projects are available at [Portfolio]("https://google.com/")
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
