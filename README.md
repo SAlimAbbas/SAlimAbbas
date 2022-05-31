@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio]("https://google.com/")
+- 👨‍💻 All of my projects are available at <a href="https://myportfolio-919447.netlify.app"><b>Portfolio</b></a>
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SAlimAbbas&show_icons=true&locale=en" alt="SAlimAbbas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SAlimAbbas&" alt="SAlimAbbas" /></p>
+
 
 
