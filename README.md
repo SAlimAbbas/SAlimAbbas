@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at <a href="https://syedalimabbas-919447.netlify.app" target="_blank"><b>Portfolio</b></a>
+- 👨‍💻 All of my projects are available at <a href="https://syedalimabbas.netlify.app/" target="_blank"><b>Portfolio</b></a>
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
