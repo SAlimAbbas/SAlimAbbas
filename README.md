@@ -24,7 +24,7 @@ in a challenging work environment.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SAlimAbbas" alt="SAlimAbbas" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning Data Structures and Algorithms.
 
 - 👨‍💻 All of my projects are available at <a href="https://syedalimabbas.netlify.app/" target="_blank"><b>Portfolio</b></a>
 
