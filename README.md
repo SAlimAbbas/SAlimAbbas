@@ -36,7 +36,7 @@ in a challenging work environment.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=https://www.linkedin.com/in/syed-alim-abbas-2587aa228/" target="_blank"><img align="center" src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" alt="alim-abbas-628901180" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-alim-abbas-2587aa228/)
 <a href="https://www.instagram.com/alimsyed44891/" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTnclxZHuHbk2BmMC3LhErYLeHPiOQy8ihA&usqp=CAU" alt="alim.ershad" height="30" width="40" /></a>
 </p>
 
