@@ -26,7 +26,7 @@ in a challenging work environment.</h3>
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 
-- 👨‍💻 All of my projects are available at My <a href="https://syedalimabbas.netlify.app/" target="_blank"><b>Portfolio</b></a>
+- 👨‍💻 All of my projects are available at my <a href="https://syedalimabbas.netlify.app/" target="_blank"><b>Portfolio</b></a>
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
