@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey there 🙋‍♂️, I'm Alim Abbas</h1>
-<h3 align="center">I'm a MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer with expertise in MERN
+stack. Self-starter and curious, with a delicate
+interest in building user-friendly websites and
+scalable applications. Anticipating honing skills
+in a challenging work environment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAlimAbbas&label=Profile%20views&color=0e75b6&style=flat" alt="SAlimAbbas" /> </p>
 
