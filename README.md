@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey there 🙋‍♂️, I'm Alim Abbas</h1>
 <h3 align="center">Full Stack Developer with expertise in MERN & MEAN
-stack. I have a strong proficiency inReact.js, Next.js, Node.js, and MongoDB & Angular.
+stack. I have a strong proficiency inReact.js, Next.js, Node.js, MongoDB & Angular.
 With a deep understanding of full-stack web development, I have successfully managed 
 and delivered several projects from conceptualization to deployment. My skills in project
 handling and collaboration have enabled me to work effectively in agile environments and
