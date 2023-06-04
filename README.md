@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey there 🙋‍♂️, I'm Alim Abbas</h1>
-<h3 align="center">Full Stack Developer with expertise in MERN
-stack. Self-starter and curious, with a delicate
-interest in building user-friendly websites and
-scalable applications. Anticipating honing skills
-in a challenging work environment.</h3>
+<h3 align="center">Full Stack Developer with expertise in MERN & MEAN
+stack. I have a strong proficiency inReact.js, Next.js, Node.js, and MongoDB & Angular.
+With a deep understanding of full-stack web development, I have successfully managed 
+and delivered several projects from conceptualization to deployment. My skills in project
+handling and collaboration have enabled me to work effectively in agile environments and
+deliver high-quality code on time. I am highly motivated and committed to staying up-to-date
+with the latest technologies and trends in the field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAlimAbbas&label=Profile%20views&color=0e75b6&style=flat" alt="SAlimAbbas" /> </p>
 
